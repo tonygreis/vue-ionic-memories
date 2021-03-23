@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">vue Memories</string>
+    <string name="title_activity_main">vue Memories</string>
+    <string name="package_name">test.memories</string>
+    <string name="custom_url_scheme">test.memories</string>
+</resources>
